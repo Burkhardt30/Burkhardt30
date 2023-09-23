@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Burkhardt30" style="color: #C6BBF7FF; font-family: Handjet;">
-    Привет, мир! Меня зовут Никита!
-  </a>
-</p>
+# Привет, мир! Меня зовут Никита!
 
 <p align="center">
   <a href="https://git.io/typing-svg">
