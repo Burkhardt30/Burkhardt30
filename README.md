@@ -14,6 +14,12 @@
 
 - 👨‍🏫 Автор многих курсов на [aroken.ru](https://aroken.ru/)  
 
+## Как связаться со мной
+[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+
+---
+
 ## Технологии
 
 ### Языки программирования и разметки
@@ -105,11 +111,3 @@
     </td>
   </tr> 
 </table>
-
----
-
-## Как связаться со мной
-[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
-
----
