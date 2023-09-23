@@ -2,11 +2,9 @@
   Hello world! Меня зовут Никита!
 </h1>
 
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=500&size=40&pause=1000&color=C6BBF7&center=true&width=435&lines=Hello+world!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0!" alt="Typing SVG" />
-  </a>
-</p> -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=500&size=40&duration=3000&pause=1000&color=B8ACF7&center=true&width=435&lines=Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+2-%D1%85+%D0%BB%D0%B5%D1%82+%D0%BE%D0%BF%D1%8B%D1%82%D0%B0+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8;%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE+%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%8E+%D1%87%D1%82%D0%BE-%D1%82%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5" alt="Typing SVG" /></a>
+</p>
 
 - 🔭 Попробовал себя в куче разносторонних проектов на фрилансе  
   
@@ -19,7 +17,7 @@
 ## Технологии
 
 ### Языки программирования и разметки
-<div align="center">  
+<div>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -31,18 +29,18 @@
 </div>
 
 ### Frontend
-<div align="center">  
+<div>  
   <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 </div>
 
 ### Backend
-<div align="center">  
+<div>  
   <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
 ### Инструменты 
-<div align="center">  
+<div>  
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
   <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
@@ -52,7 +50,7 @@
 </div>
 
 ### Качество кода
-<div align="center">  
+<div>  
   <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 </div>
 
