@@ -50,8 +50,10 @@
 </div>
 
 ### Качество кода
-<div>  
+<div>
   <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
+  <a href="https://eslint.org/" target="_blank"><img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" /></a>  
+  <a href="https://prettier.io/" target="_blank"><img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" /></a>  
 </div>
 
 ---
