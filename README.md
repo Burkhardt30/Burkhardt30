@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello world! Меня зовут Никита!
+  Hello, world! Меня зовут Никита!
 </h1>
 
 <p align="center">
