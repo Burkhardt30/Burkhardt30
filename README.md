@@ -12,7 +12,7 @@
 - 🌱 Постигаю всё великолепие [Vue](https://vuejs.org/)  
   
 
-- 👨‍🏫 Автор многих курсов на [aroken.ru](https://aroken.ru/)  
+- 👨‍🏫 Автор многих курсов по веб-разработке на [aroken.ru](https://aroken.ru/)  
 
 ## Как связаться со мной
 [![Telegram Badge](https://img.shields.io/badge/-BURKHARDT30-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BURKHARDT30)
