@@ -15,8 +15,8 @@
 - 👨‍🏫 Автор многих курсов по веб-разработке на [aroken.ru](https://aroken.ru/)  
 
 ## Как связаться со мной
-[![Telegram Badge](https://img.shields.io/badge/-BURKHARDT30-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BURKHARDT30)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:burkhardt30tto@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-develll-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/develll)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:devellleveb@gmail.com)
 
 ---
 
